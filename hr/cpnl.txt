@@ -1,0 +1,6 @@
+cpnel link: http://cpanel.webh.co/panel
+pass : 123456
+
+site link: http://hmsdemo.webh.co/hms/
+user email : ammadkhawaja2@gmail.com
+pass : 123456
